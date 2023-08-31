@@ -1,6 +1,6 @@
-### Olá! Bem Vindo ao meu GitHub 📚
+## Olá! Bem Vindo ao meu GitHub 📚
 
-"O progresso pode ser lento, mas cada pequeno passo que você dá em direção ao seu objetivo é uma vitória em si mesmo. Continue avançando!"
+### "O progresso pode ser lento, mas cada pequeno passo que você dá em direção ao seu objetivo é uma vitória em si mesmo. Continue avançando!"
 
 
 ## 🚀 Sobre mim
@@ -21,12 +21,13 @@ Sejam bem-vindos para colaborar e compartilhar ideias 💡
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-dantas-b1b462103/)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 
 ![LucasDantas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPDantas&show_icons=true&theme=transparent)
 
 
-### Habilidades em Desenvolvimento
+##  Habilidades em Desenvolvimento
 
 <div style="display: inline_block"><br/>
 	<img alingn="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
