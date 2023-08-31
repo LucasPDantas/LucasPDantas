@@ -21,7 +21,7 @@ Sejam bem-vindos para colaborar e compartilhar ideias 💡
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-dantas-b1b462103/)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/lucas.dantas_)
 
 
 ![LucasDantas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPDantas&show_icons=true&theme=transparent)
